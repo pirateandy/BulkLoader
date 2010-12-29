@@ -40,4 +40,9 @@ Useful links:
   * The [Online documentation](http://media.stimuli.com.br/projects/bulk-loader/docs/) for asdoc style help.
 
 Thank you
+
+ADDITIONS
+	*Added type TYPE_LOADER and can also be used as "loader"
+		- This returns the loader object to be used in many different ways. 
+		- See tests/ExternalBitmapSmoothing/ for example.
 	
